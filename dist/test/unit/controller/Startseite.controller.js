@@ -1,0 +1,1 @@
+sap.ui.define(["SDP/SDP/controller/Startseite.controller"],function(t){"use strict";QUnit.module("Startseite Controller");QUnit.test("I should test the Startseite controller",function(e){var n=new t;n.onInit();e.ok(n)})});
