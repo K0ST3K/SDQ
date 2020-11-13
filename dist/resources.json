@@ -1,8 +1,7 @@
 {
     "resources": [
         {
-            "name": "i18n/i18n.properties",
-            "raw": "i18n/i18n.properties"
+            "name": "view/Startseite.view.xml"
         },
         {
             "name": "manifest.json"
@@ -45,7 +44,8 @@
             "name": "di.code-validation.core_issues.json"
         },
         {
-            "name": "view/Startseite.view.xml"
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
         },
         {
             "name": "css/style.css"

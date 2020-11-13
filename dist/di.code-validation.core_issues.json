@@ -1,1 +1,1 @@
-{"version":"1.0.0","results":{"@sap/di.code-validation.js":{"issues":{}},"@sap/di.code-validation.xml":{"issues":{}},"@sap/di.code-validation.json":{"issues":{}}}}
+{"version":"1.0.0","results":{"@sap/di.code-validation.xml":{"issues":{}},"@sap/di.code-validation.json":{"issues":{".che/project.json":[{"range":{"start":{"line":0,"character":0},"end":{"line":0,"character":7}},"checker":"","category":"Syntax Error","column":1,"line":1,"message":"Expected a JSON object, array or literal.","path":".che/project.json","ruleId":"","severity":"error"}]}}}}
